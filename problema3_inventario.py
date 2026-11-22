@@ -1,6 +1,6 @@
 # ------------------------------------------------------------------
 # Nombre del estudiante: Juan Camilo Blanco Sierra
-# Grupo: XXXXXX  (reemplazar por el número de su grupo)
+# Grupo: (213022A_2204)
 # Programa: Ingeniería de Sistemas
 # Curso: Fundamentos de Programación (213022) - Fase 5 Evaluación Final POA
 # Problema 3: Reabastecimiento de inventario
